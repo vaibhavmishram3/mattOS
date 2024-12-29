@@ -5,22 +5,22 @@ import Popup from "./SubNav/Popup";
 const main = () => {
   const val = [
     {
-      img: "https://cdn.prod.website-files.com/5bac0565754dd6b3e278aeb2/5c316400edb5fd4d25b25d26_hd-graphite.svg",
+      img: "./img/mpm-hd.svg",
       text: "MPM HD",
       to: "/logout",
     },
     {
-      img: "https://cdn.prod.website-files.com/5bac0565754dd6b3e278aeb2/5c317c167569f5713dfc8712_file-txt-graphite.svg",
+      img: "./img/read-me.svg",
       text: "Read Me",
       to: "/read-me",
     },
     {
-      img: "https://cdn.prod.website-files.com/5bac0565754dd6b3e278aeb2/5c313fb5121342313602b009_disk-graphite.svg",
+      img: "./img/clients.svg",
       text: "Clients",
       to: "/clients",
     },
     {
-      img: "https://cdn.prod.website-files.com/5bac0565754dd6b3e278aeb2/5c31625c121342820702cc14_folder-graphite.svg",
+      img: "./img/webflow.svg",
       text: "Webflow",
       to: "/webflow",
     },

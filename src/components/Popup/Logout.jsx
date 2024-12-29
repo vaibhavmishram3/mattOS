@@ -8,7 +8,7 @@ const Logout = () => {
           <div className="px-5 w-24 h-32 py-5">
             <img
             className="w-[48px]"
-              src="https://cdn.prod.website-files.com/5bac0565754dd6b3e278aeb2/5c4ccc57a29a8fd736eeabe5_alert-graphite.svg"
+              src="./img/logout.svg"
               alt=""
             />
           </div>
