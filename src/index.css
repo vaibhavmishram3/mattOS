@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "chicago";
+    src: url("./img/Chicago.ttf");
+}
