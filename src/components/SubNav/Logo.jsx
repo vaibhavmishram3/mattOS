@@ -24,7 +24,7 @@ const Works = () => {
       <div>
         <img
           className="h-8"
-          src={isOpen === false ? "./img/logo.svg" : "./img/logocopy.svg"}
+          src={isOpen === false ? "../public/img/logo.svg" : "../public/img/logocopy.svg"}
           alt="logo"
         />
       </div>
