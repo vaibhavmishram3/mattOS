@@ -5,22 +5,22 @@ import Popup from "./SubNav/Popup";
 const main = () => {
   const val = [
     {
-      img: "./public/img/mpm-hd.svg",
+      img: "./img/mpm-hd.svg",
       text: "MPM HD",
       to: "/logout",
     },
     {
-      img: "./public/img/read-me.svg",
+      img: "./img/read-me.svg",
       text: "Read Me",
       to: "/read-me",
     },
     {
-      img: "./public/img/clients.svg",
+      img: "./img/clients.svg",
       text: "Clients",
       to: "/clients",
     },
     {
-      img: "./public/img/webflow.svg",
+      img: "./img/webflow.svg",
       text: "Webflow",
       to: "/webflow",
     },

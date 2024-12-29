@@ -8,7 +8,7 @@ const Logout = () => {
           <div className="px-5 w-24 h-32 py-5">
             <img
             className="w-[48px]"
-              src="./public/img/logout.svg"
+              src="./img/logout.svg"
               alt=""
             />
           </div>
